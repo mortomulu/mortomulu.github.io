@@ -564,14 +564,6 @@ video {
   max-width: 6rem;
 }
 
-.max-w-\[\] {
-  max-width: ;
-}
-
-.max-w-\[1200\] {
-  max-width: 1200;
-}
-
 .max-w-\[1200px\] {
   max-width: 1200px;
 }
@@ -609,10 +601,6 @@ video {
 .py-8 {
   padding-top: 2rem;
   padding-bottom: 2rem;
-}
-
-.font-sans {
-  font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
 }
 
 .font-poppins {
